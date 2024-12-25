@@ -1,5 +1,5 @@
 
-# Expense Tracker
+# Countdown Timer
 
 This is a simple Countdown Timer application that helps you count down to a specific date and time.
 
